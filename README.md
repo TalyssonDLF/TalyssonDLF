@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Ciência da Computação · Desenvolvimento de Software · IA & Segurança**
+**Computer Science Student · Software Engineering · AI & Cybersecurity**
 
 [![GitHub](https://img.shields.io/badge/Explorar_repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TalyssonDLF?tab=repositories)
 [![E-mail](https://img.shields.io/badge/Entrar_em_contato-6D5EF5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talyssonlago@gmail.com)
@@ -23,6 +23,13 @@ Exploro diferentes camadas da tecnologia: de **aplicações web e APIs** a **int
 - 🔐 **Segurança:** criptografia, autenticação e estudo de sistemas mais confiáveis.
 - 🛠️ **Engenharia:** desenvolvimento full stack, arquitetura de aplicações e otimização.
 - 🔬 **Mentalidade:** aprender construindo, testar hipóteses e documentar descobertas.
+
+### 🎓 Formação acadêmica
+
+**Bacharelado em Ciência da Computação** — Universidade Positivo (UP)  
+Previsão de conclusão: **dezembro de 2027**
+
+Áreas de interesse: engenharia de software, inteligência artificial, segurança da informação e sistemas.
 
 ### ⚙️ Tecnologias e ferramentas
 
@@ -48,12 +55,12 @@ Projetos públicos que representam diferentes áreas do meu aprendizado e desenv
 
 | Projeto | O que estou explorando | Tecnologias / área |
 |:--|:--|:--|
-| **[Astral — Unsupervised Clustering](https://github.com/TalyssonDLF/astral_unsupervised_clustering)** | Pipeline de redução de dimensionalidade, clusterização e avaliação de algoritmos de aprendizado não supervisionado. | Python · scikit-learn |
-| **[VaultGuard](https://github.com/TalyssonDLF/VaultGuard)** | Desenvolvimento de backend com módulos de autenticação, usuários e integração de dados. | TypeScript · NestJS · Prisma |
-| **[AES em C](https://github.com/TalyssonDLF/AES-em-C)** | Implementação e estudo do algoritmo criptográfico AES-256 em C. | C · Criptografia |
-| **[Capivarinha 2.0](https://github.com/TalyssonDLF/Capivarinha-2.0)** | Projeto de aplicação com frontend e backend separados. | React · TypeScript · NestJS |
+| **[Astral — Unsupervised Clustering](https://github.com/TalyssonDLF/astral_unsupervised_clustering)** | Análise experimental de sequências de proteínas com descritores esparsos, SVD, 6 métodos de clusterização, métricas e gráficos. | Python · scikit-learn |
+| **[VaultGuard](https://github.com/TalyssonDLF/VaultGuard)** | Backend experimental de cadastro e login com Argon2, JWT, Prisma e PostgreSQL. Inclui documentação dos cuidados de segurança pendentes. | NestJS · TypeScript · PostgreSQL |
+| **[AES em C](https://github.com/TalyssonDLF/AES-em-C)** | Implementação educacional do AES-256-CBC com operações de cifra, decifra e documentação das limitações de segurança. | C · Criptografia |
+| **[Capivarinha 2.0](https://github.com/TalyssonDLF/Capivarinha-2.0)** | Estrutura inicial full stack com frontend e backend separados; evolução funcional ainda em andamento. | React · TypeScript · NestJS |
 
-> Alguns projetos são experimentais ou estão em desenvolvimento. O objetivo é compartilhar processo, decisões técnicas e evolução — não apenas resultados finais.
+> **Transparência técnica:** os projetos têm diferentes níveis de maturidade. Cada repositório agora contém documentação sobre o que está implementado, como explorar o código e o que ainda precisa evoluir.
 
 ### 🎯 O que me motiva
 
