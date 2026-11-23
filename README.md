@@ -48,12 +48,10 @@ Projetos públicos que representam diferentes áreas do meu aprendizado e desenv
 
 | Projeto | O que estou explorando | Tecnologias / área |
 |:--|:--|:--|
-| **[TOSS — Taly Open Smart System](https://github.com/TalyssonDLF/TOSS)** | Pesquisa de um sistema leve para projetores Android, com foco em hardware, dependências e desempenho em dispositivos limitados. | Android · Sistemas embarcados |
 | **[Astral — Unsupervised Clustering](https://github.com/TalyssonDLF/astral_unsupervised_clustering)** | Pipeline de redução de dimensionalidade, clusterização e avaliação de algoritmos de aprendizado não supervisionado. | Python · scikit-learn |
 | **[VaultGuard](https://github.com/TalyssonDLF/VaultGuard)** | Desenvolvimento de backend com módulos de autenticação, usuários e integração de dados. | TypeScript · NestJS · Prisma |
 | **[AES em C](https://github.com/TalyssonDLF/AES-em-C)** | Implementação e estudo do algoritmo criptográfico AES-256 em C. | C · Criptografia |
 | **[Capivarinha 2.0](https://github.com/TalyssonDLF/Capivarinha-2.0)** | Projeto de aplicação com frontend e backend separados. | React · TypeScript · NestJS |
-| **[ECO — Gincanas Escolares](https://github.com/TalyssonDLF/Eco)** | Landing page responsiva, desenvolvida a partir de um design no Figma. | HTML · CSS · JavaScript |
 
 > Alguns projetos são experimentais ou estão em desenvolvimento. O objetivo é compartilhar processo, decisões técnicas e evolução — não apenas resultados finais.
 
